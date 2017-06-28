@@ -1,4 +1,4 @@
-Spine implementation using C, SDL and OpenGL
+**Spine implementation using C, SDL and OpenGL**
 (using Spine 3.6)
 
 TODO: 
