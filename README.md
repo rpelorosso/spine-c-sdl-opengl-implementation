@@ -12,7 +12,7 @@ Pull requests welcome! :)
 
 **Licensing**
 
-This is a derivative work of the official spine-c library by Esoteric Software and, as such, is subject to the Spine Runtimes Software License. See LICENSE.txt for details
+This is a derivative work of the official spine-c library by Esoteric Software and, as such, is subject to the Spine Runtimes Software License.
 
 This Spine Runtime may only be used for personal or internal use, typically to evaluate Spine before purchasing. If you would like to incorporate a Spine Runtime into your applications, distribute software containing a Spine Runtime, or modify a Spine Runtime, then you will need a valid Spine license.
 
